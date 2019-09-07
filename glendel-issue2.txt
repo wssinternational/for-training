@@ -1,0 +1,1 @@
+Cambios para resolver el Issue 2.
